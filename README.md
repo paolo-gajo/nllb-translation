@@ -65,12 +65,3 @@ python translate_sent_nllb_batched.py --dataset_path ./data/sample_dataset.json 
 ```
 
 This command will translate sentences from French to Spanish using the NLLB model and save the translated dataset in the specified output directory.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
----
-
-You are currently on the free plan which is significantly limited by the number of requests. To increase your quota, check the available plans [here](https://c7d59216ee8ec59bda5e51ffc17a994d.auth.portal-pluginlab.ai/pricing). For more information, visit the [documentation](https://docs.askthecode.ai/authentication/#subscription-quota-not-applied). If you have any questions, feel free to reach out using the email dsomok.github@gmail.com.
