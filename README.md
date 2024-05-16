@@ -14,9 +14,9 @@ This repository provides scripts for batched sentence translation using the NLLB
 ## Requirements
 
 - Python 3.6+
-- [Transformers](https://huggingface.co/transformers)
-- [torch](https://pytorch.org/)
-- tqdm
+```bash
+pip install transformers torch tqdm
+```
 
 ## Installation
 
